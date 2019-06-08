@@ -1,6 +1,5 @@
 {
-    "0": {
-        "0": "Estudante",
+    "Estudante": {
         "1": "ABEL PEREIRA LIMA SOARES",
         "2": "ABEL PEREIRA LIMA SOARES",
         "3": "ADALGISA APARECIDA DE OLIVEIRA",
@@ -1112,8 +1111,7 @@
         "1109": "YASMIN SERRA LINO",
         "1110": "YGOR DA COSTA FRANCO"
     },
-    "1": {
-        "0": "Unidade",
+    "Unidade": {
         "1": "CPCS",
         "2": "CPCS",
         "3": "FAALC",
@@ -2225,8 +2223,7 @@
         "1109": "CPAN",
         "1110": "INISA"
     },
-    "2": {
-        "0": "Título do Trabalho",
+    "Título do Trabalho": {
         "1": "CARACTERÍSTICAS FÍSICAS DO SOLO DESEMPENHO AGRONÔMICO DA SOJA INFLUENCIADAS POR PLANTAS DE COBERTURAS E DOSES DE CALCÁRIO",
         "2": "DESEMPENHO AGRONÔMICO DE CULTIVARES DE SOJA COM E SEM BORO",
         "3": "PRÁTICAS DE ESCRITA EM LÍNGUA PORTUGUESA POR ALUNOS SURDOS NA EJA",
@@ -3338,8 +3335,7 @@
         "1109": "ESCOLA SEM PARTIDO: DISCURSOS DE GÊNERO E SEXUALIDADES",
         "1110": "EFEITO DAS PEÇONHAS DE TITYUS SERRULATUS E TITYUS PARAGUAYENSIS SOBRE A ATIVIDADE (NA+ K+)-ATPASE"
     },
-    "3": {
-        "0": "Programa",
+    "Programa": {
         "1": "PIBIC",
         "2": "PIBIC",
         "3": "PPG",
@@ -4451,8 +4447,7 @@
         "1109": "PPG",
         "1110": "PIVIC"
     },
-    "4": {
-        "0": "Data da apresentação",
+    "Data da apresentação": {
         "1": "25/07/2019",
         "2": "26/07/2019",
         "3": "23/07/2019",
